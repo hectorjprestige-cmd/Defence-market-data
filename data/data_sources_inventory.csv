@@ -1,0 +1,14 @@
+Category,Source_Name,Description,Direct_URL,Refresh_Frequency,Last_Checked,Data_Format,Notes
+Contracts,TED (Tenders Electronic Daily),EU public procurement portal,https://ted.europa.eu,Daily,2025-11-05,HTML/XML,Search by CPV codes for defence equipment
+Contracts,UK Find a Tender Service,UK government procurement portal,https://www.find-tender.service.gov.uk,Daily,2025-11-05,HTML,UK MOD contract awards and opportunities
+Contracts,BOAMP,French public procurement bulletin,https://www.boamp.fr,Daily,2025-11-05,HTML,French defence procurement
+R&D Programmes,CORDIS,EU research project database,https://cordis.europa.eu,Weekly,2025-11-05,JSON API,"EDF, Horizon Europe defence projects"
+R&D Programmes,EDF Official Webpage,European Defence Fund calls and results,https://defence-industry-space.ec.europa.eu,Monthly,2025-11-05,PDF/HTML,Annual call topics and project awards
+R&D Programmes,French DGA (AID),Defence innovation agency,https://www.defense.gouv.fr/aid,Monthly,2025-11-05,PDF,French defence R&D projects and innovations
+R&D Programmes,UK DASA,Defence and Security Accelerator,https://www.gov.uk/government/organisations/defence-and-security-accelerator,Monthly,2025-11-05,HTML,UK innovation competitions and awards
+Analytics,SIPRI Military Expenditure Database,Global defence spending data,https://sipri.org/databases/milex,Annually,2025-11-05,Excel/CSV,Historical and current defence budgets
+Analytics,NATO Expenditure Database,NATO member defence spending,https://www.nato.int/cps/en/natolive/topics_49198.htm,Annually,2025-11-05,PDF,Official NATO member contributions
+Analytics,EDA Defence Data Portal,European Defence Agency statistics,https://eda.europa.eu/info-hub/defence-data-portal,Annually,2025-11-05,Excel,EU member state defence data
+Company News,Milrem Robotics,EU UGV leader news,https://milremrobotics.com,Weekly,2025-11-05,HTML,iMUGS2 project updates
+Company News,Rheinmetall AG,Major German defence supplier,https://www.rheinmetall.com/en/company/news,Weekly,2025-11-05,HTML,PATH autonomous kit updates
+Company News,Thales Group,EU defence technology leader,https://www.thalesgroup.com/en/news-centre,Weekly,2025-11-05,HTML,AIDA project and other EU programmes

@@ -1,0 +1,37 @@
+{
+  "created_date": "2025-11-06T19:20:32.011282",
+  "total_contracts": 17,
+  "total_rd_programmes": 22,
+  "total_annual_allocations": 76,
+  "data_sources": 13,
+  "countries_covered": [
+    "UK",
+    "Germany",
+    "France",
+    "EU",
+    "Lithuania",
+    "Austria",
+    "Czech Republic"
+  ],
+  "years_covered": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027,
+    2028
+  ],
+  "categories": [
+    "UAV Systems Procurement",
+    "Ground Robotics Procurement",
+    "Naval Robotics Procurement",
+    "Autonomy Software Procurement",
+    "Counter-UAS Procurement",
+    "UAV Systems R&D",
+    "Ground Robotics R&D",
+    "Naval Robotics R&D",
+    "Autonomy Software R&D",
+    "Counter-UAS R&D"
+  ]
+}

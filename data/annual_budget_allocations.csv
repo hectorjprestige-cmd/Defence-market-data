@@ -1,0 +1,77 @@
+Year,Country,Programme_Name,Category,Type,Annual_Amount_EUR_M,Total_Budget_EUR_M
+2025,UK,Digital Targeting Web (ASGARD),Autonomy Software Procurement,Procurement,384.0,1152.0
+2026,UK,Digital Targeting Web (ASGARD),Autonomy Software Procurement,Procurement,384.0,1152.0
+2027,UK,Digital Targeting Web (ASGARD),Autonomy Software Procurement,Procurement,384.0,1152.0
+2023,Germany,IRIS-T SLM Air Defence System,Counter-UAS Procurement,Procurement,316.6666666666667,950.0
+2024,Germany,IRIS-T SLM Air Defence System,Counter-UAS Procurement,Procurement,316.6666666666667,950.0
+2025,Germany,IRIS-T SLM Air Defence System,Counter-UAS Procurement,Procurement,316.6666666666667,950.0
+2026,UK,MHC Block 2 UUV Programme,Naval Robotics Procurement,Procurement,36.25,145.0
+2027,UK,MHC Block 2 UUV Programme,Naval Robotics Procurement,Procurement,36.25,145.0
+2028,UK,MHC Block 2 UUV Programme,Naval Robotics Procurement,Procurement,36.25,145.0
+2029,UK,MHC Block 2 UUV Programme,Naval Robotics Procurement,Procurement,36.25,145.0
+2025,EU,iMUGS2 Modular UGV,Ground Robotics Procurement,Procurement,12.5,50.0
+2026,EU,iMUGS2 Modular UGV,Ground Robotics Procurement,Procurement,12.5,50.0
+2027,EU,iMUGS2 Modular UGV,Ground Robotics Procurement,Procurement,12.5,50.0
+2028,EU,iMUGS2 Modular UGV,Ground Robotics Procurement,Procurement,12.5,50.0
+2024,UK,Task Force Rapstone,Autonomy Software Procurement,Procurement,18.75,75.0
+2025,UK,Task Force Rapstone,Autonomy Software Procurement,Procurement,18.75,75.0
+2026,UK,Task Force Rapstone,Autonomy Software Procurement,Procurement,18.75,75.0
+2027,UK,Task Force Rapstone,Autonomy Software Procurement,Procurement,18.75,75.0
+2027,UK,ACP Tranche 2 (RAF),UAV Systems Procurement,Procurement,7.666666666666667,23.0
+2028,UK,ACP Tranche 2 (RAF),UAV Systems Procurement,Procurement,7.666666666666667,23.0
+2029,UK,ACP Tranche 2 (RAF),UAV Systems Procurement,Procurement,7.666666666666667,23.0
+2024,EU,EDA UAS Airspace Integration,UAV Systems R&D,Procurement,0.9666666666666667,2.9
+2025,EU,EDA UAS Airspace Integration,UAV Systems R&D,Procurement,0.9666666666666667,2.9
+2026,EU,EDA UAS Airspace Integration,UAV Systems R&D,Procurement,0.9666666666666667,2.9
+2025,UK,Project VOLLEY UAV Launcher,UAV Systems Procurement,Procurement,0.1725,0.345
+2026,UK,Project VOLLEY UAV Launcher,UAV Systems Procurement,Procurement,0.1725,0.345
+2025,UK,UAV System - LiDAR,UAV Systems Procurement,Procurement,0.085,0.085
+2025,UK,Robotics Class 1 Cabinet,Ground Robotics Procurement,Procurement,0.0365,0.073
+2026,UK,Robotics Class 1 Cabinet,Ground Robotics Procurement,Procurement,0.0365,0.073
+2024,Lithuania,Drones - Standard and FPV,UAV Systems Procurement,Procurement,0.007,0.007
+2025,UK,Strategic Defence Review 2025 - RAS Investment,All Categories,R&D,959.3333333333334,5756.0
+2026,UK,Strategic Defence Review 2025 - RAS Investment,All Categories,R&D,959.3333333333334,5756.0
+2027,UK,Strategic Defence Review 2025 - RAS Investment,All Categories,R&D,959.3333333333334,5756.0
+2028,UK,Strategic Defence Review 2025 - RAS Investment,All Categories,R&D,959.3333333333334,5756.0
+2029,UK,Strategic Defence Review 2025 - RAS Investment,All Categories,R&D,959.3333333333334,5756.0
+2030,UK,Strategic Defence Review 2025 - RAS Investment,All Categories,R&D,959.3333333333334,5756.0
+2025,UK,Made Smarter Innovation - Robotics R&D,Ground Robotics R&D,R&D,537.3333333333334,3224.0
+2026,UK,Made Smarter Innovation - Robotics R&D,Ground Robotics R&D,R&D,537.3333333333334,3224.0
+2027,UK,Made Smarter Innovation - Robotics R&D,Ground Robotics R&D,R&D,537.3333333333334,3224.0
+2028,UK,Made Smarter Innovation - Robotics R&D,Ground Robotics R&D,R&D,537.3333333333334,3224.0
+2029,UK,Made Smarter Innovation - Robotics R&D,Ground Robotics R&D,R&D,537.3333333333334,3224.0
+2030,UK,Made Smarter Innovation - Robotics R&D,Ground Robotics R&D,R&D,537.3333333333334,3224.0
+2025,UK,UK Defence Innovation (UKDI),Autonomy Software R&D,R&D,76.83333333333333,461.0
+2026,UK,UK Defence Innovation (UKDI),Autonomy Software R&D,R&D,76.83333333333333,461.0
+2027,UK,UK Defence Innovation (UKDI),Autonomy Software R&D,R&D,76.83333333333333,461.0
+2028,UK,UK Defence Innovation (UKDI),Autonomy Software R&D,R&D,76.83333333333333,461.0
+2029,UK,UK Defence Innovation (UKDI),Autonomy Software R&D,R&D,76.83333333333333,461.0
+2030,UK,UK Defence Innovation (UKDI),Autonomy Software R&D,R&D,76.83333333333333,461.0
+2024,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2025,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2026,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2027,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2028,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2029,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2030,France,MAAID - Ministerial Agency for AI in Defence,Autonomy Software R&D,R&D,42.857142857142854,300.0
+2024,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2025,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2026,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2027,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2028,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2029,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2030,UK,ARIA Robot Dexterity Programme,Ground Robotics R&D,R&D,9.37142857142857,65.6
+2025,EU,iMUGS2 - integrated Modular Unmanned Ground Systems 2,Ground Robotics R&D,R&D,12.5,50.0
+2026,EU,iMUGS2 - integrated Modular Unmanned Ground Systems 2,Ground Robotics R&D,R&D,12.5,50.0
+2027,EU,iMUGS2 - integrated Modular Unmanned Ground Systems 2,Ground Robotics R&D,R&D,12.5,50.0
+2028,EU,iMUGS2 - integrated Modular Unmanned Ground Systems 2,Ground Robotics R&D,R&D,12.5,50.0
+2025,UK,Robotics Adoption Hubs Network,Ground Robotics R&D,R&D,7.683333333333334,46.1
+2026,UK,Robotics Adoption Hubs Network,Ground Robotics R&D,R&D,7.683333333333334,46.1
+2027,UK,Robotics Adoption Hubs Network,Ground Robotics R&D,R&D,7.683333333333334,46.1
+2028,UK,Robotics Adoption Hubs Network,Ground Robotics R&D,R&D,7.683333333333334,46.1
+2029,UK,Robotics Adoption Hubs Network,Ground Robotics R&D,R&D,7.683333333333334,46.1
+2030,UK,Robotics Adoption Hubs Network,Ground Robotics R&D,R&D,7.683333333333334,46.1
+2025,EU,SCEPTER - Standardized Radar/EW/Comms for Airborne Platforms,UAV Systems R&D,R&D,8.75,35.0
+2026,EU,SCEPTER - Standardized Radar/EW/Comms for Airborne Platforms,UAV Systems R&D,R&D,8.75,35.0
+2027,EU,SCEPTER - Standardized Radar/EW/Comms for Airborne Platforms,UAV Systems R&D,R&D,8.75,35.0
+2028,EU,SCEPTER - Standardized Radar/EW/Comms for Airborne Platforms,UAV Systems R&D,R&D,8.75,35.0
